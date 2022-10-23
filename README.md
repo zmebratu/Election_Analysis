@@ -5,6 +5,9 @@ The purpose of this election audit analysis is to determine the voter percentage
 
 
 ### Results
-"*"
+*
+•
+•
+•
 
 ## Summary
