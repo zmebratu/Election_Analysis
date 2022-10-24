@@ -3,7 +3,7 @@
 ## Overview of Project
 The purpose of this election audit analysis is to determine the voter percentage of each county, the number of voters in each county and which county had the highest voter turnout.
 
-### Results
+## Results
 * For this congressional election there were 369,711 votes casted.
 * Of those votes, 24,801 were from Arapahoe which made 6.7% of the total votes casted. Jefferson had 38,855 voters’ turnout or 10.5%. Denver on the other hand had 82.8% of the votes or 306,055.
 * The county with the largest number of votes was Denver. 
