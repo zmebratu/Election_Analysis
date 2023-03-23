@@ -29,4 +29,5 @@ As mentioned earlier, the Python script we created can be adapted to suit other 
 The script can be adjusted to cater for the following:
 * Instead of counties, we can analyze states, regions or countries.
 * Rather than just candidate names, we can create a function that identifies the political party of each candidate.
+
 Using this script for future elections offers several benefits, including faster and more straightforward reporting and publication of results. Reusing code is advantageous as it saves time and resources and eliminates redundancy. Additionally, the script can run on any operating system, machine or platform, making it convenient for use in any work environment. 
